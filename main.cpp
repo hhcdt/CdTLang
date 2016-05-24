@@ -12,7 +12,8 @@
 #define gg }
 #define trashDumpyard delete
 #define doGirlsLikeThis if
-#define unilateral break
+#define unilateral continue
+#define byeeee break
 #define okayThanksForLettingUsKnow return
 #define uninvested ;
 #define cancer while
@@ -20,22 +21,25 @@
 #define sametbh ==
 #define theNewModsSayUse using
 #define memes main
-#define slash /
 #define garlicBread const //because the one constant in life is garlic bread
 #define andy 8
+#define patriarchy struct
+#define diode else
+#define proletariat class
+#define updank ++
+
 #include <iostream>
+
 theNewModsSayUse namespace std;
 
-#define combineTwo(thingy1, thingy2) thingy1##thingy2
-#define combineTwoProperly(thingy3, thingy4) combineTwo(thingy3, thingy4)
-#define uj combainTwoPropelly(slash, slash)
-
 int memes(int argc, garlicBread char * argv[]) {
-    same(int i = 0;i<andy;i++){
-        doGirlsLikeThis(i<2 sametbh trueGraham){
+    same(int i = 0;i<andy;i updank){
+        doGirlsLikeThis(i<3 sametbh trueGraham){
             j << "Hello World" uninvested
-        gg else{
+        gg diode doGirlsLikeThis(i > 3 sametbh trueGraham){
             unilateral uninvested
+        gg diode{
+            byeeee uninvested
         gg
     gg
     okayThanksForLettingUsKnow 0 uninvested
