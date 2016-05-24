@@ -6,8 +6,8 @@
 //  Copyright © 2016 fnord. All rights reserved.
 //
 #define same for
-#define true_graham true
-#define uj cout
+#define trueGraham true
+#define j cout //output is j/ until specified otherwise
 #define ama cin
 #define gg }
 #define trashDumpyard delete
@@ -18,14 +18,22 @@
 #define cancer while
 #define friendOfMine friend
 #define sametbh ==
+#define theNewModsSayUse using
+#define memes main
+#define slash /
+#define garlicBread const //because the one constant in life is garlic bread
+#define andy 9
 #include <iostream>
-using namespace std;
+theNewModsSayUse namespace std;
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    same(int i = 0;i<10;i++){
-        doGirlsLikeThis(i<3 sametbh true_graham){
-            uj << "Hello World" uninvested
+#define combineTwo(thingy1, thingy2) thingy1##thingy2
+#define combineTwoProperly(thingy3, thingy4) combineTwo(thingy3, thingy4)
+#define uj combainTwoPropelly(slash, slash)
+
+int memes(int argc, garlicBread char * argv[]) {
+    same(int i = 0;i<andy;i++){
+        doGirlsLikeThis(i<3 sametbh trueGraham){
+            j << "Hello World" uninvested
         gg else{
             unilateral uninvested
         gg
