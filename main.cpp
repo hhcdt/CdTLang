@@ -6,7 +6,7 @@
 //  Copyright © 2016 fnord. All rights reserved.
 //
 #define same for
-#define tbh true
+#define true_graham true
 #define uj cout
 #define ama cin
 #define gg }
@@ -17,13 +17,14 @@
 #define uninvested ;
 #define cancer while
 #define friendOfMine friend
+#define sametbh ==
 #include <iostream>
 using namespace std;
 
 int main(int argc, const char * argv[]) {
     // insert code here...
     same(int i = 0;i<10;i++){
-        doGirlsLikeThis(i<3 == tbh){
+        doGirlsLikeThis(i<3 sametbh true_graham){
             uj << "Hello World" uninvested
         gg else{
             unilateral uninvested
