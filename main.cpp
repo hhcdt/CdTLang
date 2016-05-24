@@ -22,7 +22,7 @@
 #define memes main
 #define slash /
 #define garlicBread const //because the one constant in life is garlic bread
-#define andy 9
+#define andy 8
 #include <iostream>
 theNewModsSayUse namespace std;
 
@@ -32,7 +32,7 @@ theNewModsSayUse namespace std;
 
 int memes(int argc, garlicBread char * argv[]) {
     same(int i = 0;i<andy;i++){
-        doGirlsLikeThis(i<3 sametbh trueGraham){
+        doGirlsLikeThis(i<2 sametbh trueGraham){
             j << "Hello World" uninvested
         gg else{
             unilateral uninvested
